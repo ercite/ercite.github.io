@@ -1,0 +1,42 @@
+---
+layout: default
+title: About Us
+people:
+  - last_name: Woodward
+    first_name: Guy
+    title: Prof
+    role: Co-Investigator
+    job_title: Professor of Ecology &amp; Deputy Head (Department of Life Sciences)
+    url: https://www.imperial.ac.uk/people/guy.woodward
+    image: /assets/img/guy.jpg
+    description: >
+      Guy is a freshwater ecologist, with particular interests in developing new gene-to-ecosystem
+      approaches to understand how natural systems respond to stressors -- from climate change and
+      chemical pollution to novel pathogens such as the SARS-CoV-2 virus. Guy sits on the Board of
+      Directors at the Freshwater Biological Association and the Events Committee of the British
+      Ecological Society, and he is the Deputy Head of Life Sciences, based at Imperial’s Silwood
+      Park campus.
+---
+<script src="https://kit.fontawesome.com/256f118032.js" crossorigin="anonymous"></script>
+
+{% for person in page.people %}
+{% if person.hidden %}{% continue %}{% endif %}
+<p>
+  <div style="overflow: auto;" markdown="1" id="{{person.first_name | downcase}}">
+    <h2>{{person.title}} {{person.first_name}} {{person.last_name}}</h2>
+    {% if person.image %}
+    <img src="{{person.image}}" alt="photo of {{person.first_name}}" class="profile-image"/>
+    {% endif %}
+    <div class="post-meta">{{person.job_title}}</div>
+    <div class="post-meta"><em>{{person.role}}</em></div>
+    {% if person.url %}
+      <div class="post-meta"><a href="{{person.url}}"><i class="fas fa-globe-europe"></i> Personal webpage</a></div>
+    {% endif %}
+    {% if person.twitter %}
+    <div class="post-meta"><a href="//twitter.com/{{person.twitter}}"><i class="fab fa-twitter"></i> Twitter</a></div>
+    {% endif %}
+    <p markdown="1">{{person.description | markdownify}}</p>
+  </div>
+</p>
+{% endfor %}
+
