@@ -20,5 +20,3 @@
 
 
 The other core task for WP1 is producing molecular (NGS/qPCR) data resulting from samples collected in experiments and field campaigns (WP2-4). Here we generate the taxonomic and functional biodiversity measures describing community dynamics, resilience and issues of functional redundancy in the microbial (and macro) components of the food web. We use NGS metabarcoding to quantify taxonomic/phylogenetic diversity and NGS metagenomics and qPCR to quantify microbial functional responses. Full details of these molecular methods can be found [here](https://onlinelibrary.wiley.com/doi/full/10.1002/wat2.1280) 
-
-Test
