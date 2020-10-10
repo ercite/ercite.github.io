@@ -1,10 +1,10 @@
 # WP4 – Ecological networks and field bioassays
 
 **Researchers**
-+ Prof. Guy Woodward (ICL) (WP lead)
-+ Dr Eoin O’Gorman (UoE)
-+ Dr Michelle Jackson (Ox) 
-+ Dr Danielle Harris (ICL)
++ Prof. Guy Woodward (Work Package lead)
++ Dr Eoin O’Gorman
++ Dr Michelle Jackson 
++ Dr Danielle Harris
 
 **Aim** Extend our lab and mesocosm experiments (WP3) into natural settings to test for consistency of responses
 
