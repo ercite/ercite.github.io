@@ -21,3 +21,5 @@ Our pilot experiments have created defined mixtures of chemicals that align with
 *The impact of mixtures of chemicals on a microbial communities becomes more unpredictable with increasing complexity of the chemical cocktail. Note these are preliminary data*
 
 One result from these preliminary data is that our predictions get worse (further from the 1:1 line) as the chemical cocktails get more complex. This implies that piecemeal investigations of chemicals one-by-one may not adequately predict their impacts in natural environments, where interactions among chemical stressors could play a prominent role.
+
+
