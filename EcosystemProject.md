@@ -13,8 +13,8 @@ To achieve the project’s objectives, it is structured in six interlinked work 
 
 [**WP3**](/WP3.md) – Food Web Modules
 
-**WP4** – Ecological Networks
+[**WP4**](/WP4.md) – Ecological Networks
 
-**WP5** – Modelling
+[**WP5**](/WP5.md) – Modelling
 
-**WP6** – Policy, management and implementation
+[**WP6**](/WP6.md) – Policy, management and implementation
