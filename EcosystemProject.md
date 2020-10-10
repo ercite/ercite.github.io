@@ -7,9 +7,10 @@ layout: default
 
 ![](/assets/img/imperial-logo.svg)
 
+
 **Project Lead:** [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward)
 
-**Awarded Grant:** £1.9m
+**Awarded Grant:** £2.5m
 
 **Background:** Freshwater ecosystems provide critical ecosystem services that underpin human societies and wellbeing: including water purification, carbon capture, and the maintenance of sustainable fisheries. However, these ecosystems are under an increasing array of threats, both in the UK and worldwide, especially from a wide range of new and emerging chemical stressors (e.g. antibiotics and pesticides). Freshwater biosciences and applied ecology are ill-equipped for dealing with these new threats: there is often little or no mechanistic understanding, or predictive capacity for anticipating how these novel chemicals will operate in the real world. This is particularly true for the ecosystems of the future that are being reshaped by climate and other environmental changes. 
 
