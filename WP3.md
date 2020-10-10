@@ -17,6 +17,7 @@ We will construct “food web modules” of key resources at the base of freshwa
 
 
 ![](/assets/img/WP3Fig1.png)
+
 *Schematic representation of simplified “food web modules” we will use to represent “green” (left) and “brown” (right) pathways. The basal resource of the green pathway is algae, which is grazed by herbivores (e.g. Physa fontinalis) allowing energy in the form of carbon to move higher up the food web. A similar process occurs in brown pathways except the basal resource is leaf litter which is decomposed by both the microbial community (predominantly bacteria and fungi) and macroinvertebrate shredders (e.g. Asellus aquaticus). Together, these are the main routes by which energy moves through the food web, and hence how indirect effects of chemicals will be manifested at higher trophic levels and the services they provide (e.g. fishes and fisheries)*
 
 **Experimental Aquaria** Our initial laboratory experiments will introduce the food web modules (Figure XXXX) to various warming and chemical stressor scenarios. To each aquaria treatment, we will add the following:
@@ -25,6 +26,7 @@ We will construct “food web modules” of key resources at the base of freshwa
 + Cellulose cotton strips – to measure decomposition (brown pathways)
 
 ![](/assets/img/WP3Fig2png.png)
+
 *Imperial’s Silwood Park controlled environment rooms. Controlled experiments can be run in the controlled environment rooms where temperature, humidity and light can be carefully controlled and monitored*
 
 
@@ -32,4 +34,5 @@ We will construct “food web modules” of key resources at the base of freshwa
 
 
 ![](/assets/img/WP3Fig3.png)
+
 *Imperial’s Silwood Park Mesocosm Facility. The mesocosms are set up to measure the impacts of chemicals and warming in replicated semi-natural systems. The mesocosms form a part of the NERC large grant (Gene-to-ecosystem impacts of global warming). Warming has started in September 2018 and chemical additions in April 2019.* 
