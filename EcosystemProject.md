@@ -7,7 +7,7 @@
 **Specific workplans** – (see the ChemPop (CEH) and Chemical Mixture Project (CEH) pages for project details)
 To achieve the project’s objectives, it is structured in six interlinked work packages (WP; Figure tbc)
 
-**WP1** – Ecoinformatics
+[**WP1**](/WP1) – Ecoinformatics
 
 **WP2** – Bacterial Biosensors
 
