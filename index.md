@@ -22,8 +22,9 @@ Research will focus on addressing issues that regulators or industry are current
 
 ERCITE is comprised of three key projects
 
-ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations
+1. ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations
+ * [Imperial College London (ICL); Project Lead: Prof. Guy Woodward; £2.5 M]
 
-Chemical Mixtures Project: Classic and temporal mixture synergisms in terrestrial ecosystems: Prevalence, mechanisms and impacts
+2. Chemical Mixtures Project: Classic and temporal mixture synergisms in terrestrial ecosystems: Prevalence, mechanisms and impacts
 
-Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems 
+3. Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems 
