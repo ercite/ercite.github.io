@@ -9,7 +9,7 @@ To achieve the project’s objectives, it is structured in six interlinked work 
 
 [**WP1**](/WP1.md) – Ecoinformatics
 
-**WP2** – Bacterial Biosensors
+[**WP2**](/WP2.md) – Bacterial Biosensors
 
 **WP3** – Food Web Modules
 
