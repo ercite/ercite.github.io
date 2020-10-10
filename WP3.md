@@ -6,7 +6,7 @@ layout: default
 
 **Researchers**
 
-+ [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) (Work Package lead)
++ [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) (Work Package Lead)
 + [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell)
 + Dr Emma Ransome
 + [Dr Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) 
