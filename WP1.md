@@ -1,7 +1,8 @@
 # WP1 – Ecoinformatics 
 
 **Researchers**
-+ Prof. Alex J Dumbrell (UoE) (WP lead)
++ Prof. Alex J Dumbrell (UoE) 
+  (Work Package lead)
 + Dr Boyd McKew (UoE) 
 + Dr Robert Ferguson (UoE)  
 + Dr Kate Randall (UoE)
