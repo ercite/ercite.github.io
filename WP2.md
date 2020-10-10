@@ -16,7 +16,6 @@ In field trials, only a limited number of chemicals can be tested because experi
 
 Our pilot experiments have created defined mixtures of chemicals that align with the chemicals used in the other parts of the project. In a series of pilot experiments, we created cocktails containing up to 8 different chemicals and measured their impact on the growth of a diverse community of microbes. In the figure below, each data point is a mixture of chemicals (from 2 to 8). Lighter colours contain more chemicals and dark blue contain fewer. On the y-axis is the impact of the chemicals on community growth.  The x-axis shows the impact that we would predict in the mixture of chemicals, where the prediction is based the impact of each chemical individually. The grey line is the 1:1 line, where our observations match our predictions. 
 
-
 ![](/assets/img/WP2Fig2.png)
 
 *The impact of mixtures of chemicals on a microbial communities becomes more unpredictable with increasing complexity of the chemical cocktail. Note these are preliminary data*
