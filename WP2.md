@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # WP2 – Bacterial biosensors
 
 **Researchers**
