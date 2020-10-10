@@ -5,7 +5,7 @@ layout: default
 # WP2 – Bacterial biosensors
 
 **Researchers**
-+ [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell) (Work Package lead)
++ [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell) (Work Package Lead)
 + Dr Emma Ransome
 + [Dr Thomas Smith](https://www.imperial.ac.uk/people/thomas.smith1)
 
