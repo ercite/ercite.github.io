@@ -9,7 +9,7 @@ layout: default
 
 **Project Lead:** [Dr David Spurgeon](https://www.ceh.ac.uk/staff/david-spurgeon)
 
-**Grant Awarded:** £2.4m
+**Grant Awarded:** £2.4M
 
 **Background** 
 
