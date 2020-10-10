@@ -2,8 +2,8 @@
 
 **Researchers**
 
-+ Prof. Nick Voulvoulis (WP lead)
-+ Dr Theodoros Giakoumis
++ [Prof. Nick Voulvoulis (Work Program lead)](https://www.imperial.ac.uk/people/n.voulvoulis)
++ [Dr Theodoros Giakoumis](https://www.imperial.ac.uk/people/theodoros.giakoumis13)
 
 **Background** 
 
