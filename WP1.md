@@ -5,10 +5,10 @@ layout: default
 # WP1 – Ecoinformatics 
 
 **Researchers**
-+ [Prof. Alex J Dumbrell (Work Package lead)](https://www.essex.ac.uk/people/dumbr85003/alex-dumbrell)
-+ [Dr Boyd McKew](https://www.essex.ac.uk/people/mckew22805/boyd-mckew)
-+ [Dr Robert Ferguson](https://www.essex.ac.uk/people/fergu10501/robert-ferguson)
-+ [Dr Kate Randall](https://www.essex.ac.uk/people/randa81609/kate-randall)
++ [Prof. Alex J Dumbrell (Work Package lead)](https://www.essex.ac.uk/people/dumbr85003/alex-dumbrell) - University of Essex
++ [Dr Boyd McKew](https://www.essex.ac.uk/people/mckew22805/boyd-mckew) - University of Essex
++ [Dr Robert Ferguson](https://www.essex.ac.uk/people/fergu10501/robert-ferguson) - University of Essex
++ [Dr Kate Randall](https://www.essex.ac.uk/people/randa81609/kate-randall) - University of Essex
 
 **Aims:** a) define the chemicals that are on the horizon as emerging threats; b) to identify experimental modules and field sites where our approach can be tested and validated; c) support other work packages by producing NGS data describing how taxonomic and functional biodiversity responds to chemical stressors.
 
