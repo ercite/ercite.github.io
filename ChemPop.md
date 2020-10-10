@@ -7,6 +7,9 @@ layout: default
 
 ![](/assets/img//ceh-logo.png)
 
+**Project Lead:** [Prof. Andrew Johnson](https://www.ceh.ac.uk/staff/andrew-johnson)
+**Project Fund:** £1.9m
+
 **Core research questions**
 
 + What are the impacts of hazardous chemicals on populations, ecosystems and ecosystem services?
