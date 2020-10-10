@@ -8,8 +8,12 @@ Specific workplans – (see the ChemPop (CEH) and Chemical Mixture Project (CEH)
 To achieve the project’s objectives, it is structured in six interlinked work packages (WP; Figure tbc)
 
 **WP1** – Ecoinformatics
-**WP2** – Bacterial Biosensors 
-**WP3** – Food Web Modules 
-**WP4** – Ecological Networks 
-**WP5** – Modelling 
+
+**WP2** – Bacterial Biosensors
+
+**WP3** – Food Web Modules
+
+**WP4** – Ecological Networks
+
+**WP5** – Modelling
 **WP6** – Policy, management and implementation
