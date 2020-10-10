@@ -5,6 +5,8 @@ layout: default
 
 # Emerging Risks of Chemicals in the  Environment (ERCITE)
 
+![](/assets/img/UKRI_NER_Council-Logo_Horiz-RGB.png)
+
 ## Vision
 The Emerging Risks of Chemicals in the Environment programme aims to conduct research to predict how the environment and its functioning will respond to chemical exposure that regulators or industry are currently facing or might face in the future in the UK.  The anticipated high level outcome is a transformation in the way chemical risk assessment is considered; to move towards an ecosystems approach with greater ecological relevance.  
 
