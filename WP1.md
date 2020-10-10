@@ -5,7 +5,7 @@ layout: default
 # WP1 – Ecoinformatics 
 
 **Researchers**
-+ [Prof. Alex J Dumbrell (Work Package lead)](https://www.essex.ac.uk/people/dumbr85003/alex-dumbrell) - University of Essex
++ [Prof. Alex J Dumbrell (Work Package Lead)](https://www.essex.ac.uk/people/dumbr85003/alex-dumbrell) - University of Essex
 + [Dr Boyd McKew](https://www.essex.ac.uk/people/mckew22805/boyd-mckew) - University of Essex
 + [Dr Robert Ferguson](https://www.essex.ac.uk/people/fergu10501/robert-ferguson) - University of Essex
 + [Dr Kate Randall](https://www.essex.ac.uk/people/randa81609/kate-randall) - University of Essex
