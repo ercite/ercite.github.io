@@ -12,3 +12,6 @@
 
 ![](/assets/img/WP1Fig1_1.png)
 **Figure tbc** Emerging chemicals database structure and data sources. Emerging chemical stressors are identified from existing databases and monitoring data. Then a number of data sources are used to determine the environmental risk of the chemicals, such as ecotoxiclogical data for specific taxa, which is compared with predicted environmental concentrations based on monitoring data and modelling.
+
+
+![](/assets/img/WP1Fig2.png)
