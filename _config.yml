@@ -4,7 +4,6 @@ title: ERCITE
 show_excerpts: true
 future: true
 header_pages:
-  - index.md
   - ChemPop.md
   - ChemMix.md
   - EcosystemProject.md
