@@ -1,5 +1,7 @@
-
-
+---
+title: ChemPop Project
+layout: default
+---
 
 # ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations? 
 
