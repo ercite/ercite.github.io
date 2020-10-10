@@ -1,5 +1,5 @@
 ---
-title: Ecosystem Project
+title: Ecosystems Project
 layout: default
 ---
 
