@@ -30,6 +30,6 @@ ERCITE is comprised of three key projects
 
    UK Centre for Ecology and Hydrology (CEH); Dr David Spurgeon; £2.4 M
 
-3. [Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems](![]/EcosystemProject.md)
+3. [Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems](/EcosystemProject.md)
 
    Imperial College London (ICL); Project Lead: Prof. Guy Woodward; £2.5 M
