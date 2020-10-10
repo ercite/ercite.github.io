@@ -22,7 +22,7 @@ Research will focus on addressing issues that regulators or industry are current
 
 ERCITE is comprised of three key projects
 
-1. ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations
+1. [ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations](/ChemPop.md)
 
    UK Centre for Ecology and Hydrology (CEH); Prof. Andrew Johnson; £1.9 M
 
