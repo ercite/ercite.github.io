@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # WP4 – Ecological networks and field bioassays
 
 **Researchers**
