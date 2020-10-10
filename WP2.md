@@ -3,7 +3,7 @@
 **Researchers**
 + [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell) (Work Package lead)
 + Dr Emma Ransome
-+ [Dr Thomas Smith](https://www.imperial.ac.uk/people/thomas.smith)
++ [Dr Thomas Smith](https://www.imperial.ac.uk/people/thomas.smith1)
 
 Freshwater microbes are an enormously complex 'black box' that underpins freshwater food webs and key ecosystem functions and services. These communities have short generation times and are highly responsive to changes in environmental conditions, making them ideal “signallers” (bioindicators) of environmental perturbations and changes in ecosystem health. 
 We are using these complex communities as ecological canaries to understand the simultaneous impact of cocktails of many different chemical stressors.
