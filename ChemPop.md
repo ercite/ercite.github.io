@@ -38,7 +38,7 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 
 **Papers linked to the project which have been published so far**
 
-Johnson, A.C. (2019) Is freshwater macroinvertebrate biodiversity being harmed by synthetic chemicals in municipal wastewater?  Current Opinion in Environmental Science & Health, 11, 8-12. https://doi.org/10.1016/j.coesh.2019.05.005
+Johnson, A.C. (2019) Is freshwater macroinvertebrate biodiversity being harmed by synthetic chemicals in municipal wastewater?  Current Opinion in Environmental Science & Health, 11, 8-12. (https://doi.org/10.1016/j.coesh.2019.05.005)
 
 Johnson, A.C. (2019) The necessity for wildlife population studies to assess real chemical impacts. Current Opinion in Environmental Science & Health, 11, A1_A3.    https://doi.org/10.1016/j.coesh.2019.10.005
 
