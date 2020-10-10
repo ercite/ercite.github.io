@@ -28,8 +28,8 @@ ERCITE is comprised of three key projects
 
 2. Chemical Mixtures Project: Classic and temporal mixture synergisms in terrestrial ecosystems: Prevalence, mechanisms and impacts
 
- [UK Centre for Ecology and Hydrology (CEH); Dr David Spurgeon; £2.4 M]
+   [UK Centre for Ecology and Hydrology (CEH); Dr David Spurgeon; £2.4 M]
 
 3. Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems 
 
-[Imperial College London (ICL); Project Lead: Prof. Guy Woodward; £2.5 M]
+   [Imperial College London (ICL); Project Lead: Prof. Guy Woodward; £2.5 M]
