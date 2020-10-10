@@ -9,7 +9,7 @@ layout: default
 
 **Project Lead:** [Prof. Andrew Johnson](https://www.ceh.ac.uk/staff/andrew-johnson)
 
-**Awarded Grant:** £1.9m
+**Grant Awarded:** £1.9m
 
 **Core research questions**
 
