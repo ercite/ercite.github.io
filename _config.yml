@@ -5,5 +5,8 @@ show_excerpts: true
 future: true
 header_pages:
   - index.md
+  - Chempop.md
+  - ChemMix.md
+  - EcosystemProject.md
   - about.html
 repository: ercite/ercite.github.io
