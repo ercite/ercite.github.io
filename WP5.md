@@ -1,9 +1,9 @@
 # WP5 – Modelling to predict current and future scenarios 
 
 **Researchers**
-+ Dr Samraat Pawar (Work Package lead)
-+ Dr James Rosindell
-+ Dr Emma Cavan
++ [Dr Samraat Pawar](https://www.imperial.ac.uk/people/s.pawar) (Work Package lead)
++ [Dr James Rosindell](https://www.imperial.ac.uk/people/j.rosindell)
++ [Dr Emma Cavan](https://www.imperial.ac.uk/people/e.cavan)
 
 **Aim** 
 
