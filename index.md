@@ -24,11 +24,11 @@ ERCITE is comprised of three key projects
 
 1. [ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations](/ChemPop.md)
 
-   *UK Centre for Ecology and Hydrology; Prof. Andrew Johnson; £1.9 M*
+   *UK Centre for Ecology and Hydrology; Project Lead: Prof. Andrew Johnson; £1.9 M*
 
 2. [Chemical Mixtures Project: Classic and temporal mixture synergisms in terrestrial ecosystems: Prevalence, mechanisms and impacts](/ChemMix.md)
 
-   *UK Centre for Ecology and Hydrology; Dr David Spurgeon; £2.4 M*
+   *UK Centre for Ecology and Hydrology; Project Lead: Dr David Spurgeon; £2.4 M*
 
 3. [Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems](/EcosystemProject.md)
 
