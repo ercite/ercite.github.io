@@ -5,6 +5,8 @@ layout: default
 
 # ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations? 
 
+![](/assets/img//ceh-logo.png)
+
 **Core research questions**
 
 + What are the impacts of hazardous chemicals on populations, ecosystems and ecosystem services?
