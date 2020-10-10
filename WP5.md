@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # WP5 – Modelling to predict current and future scenarios 
 
 **Researchers**
