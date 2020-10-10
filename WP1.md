@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # WP1 – Ecoinformatics 
 
 **Researchers**
