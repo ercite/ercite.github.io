@@ -20,4 +20,4 @@ This WP aims to facilitate the transformation in the way chemical risk assessmen
 + Explore how project outputs can support ecologically relevant chemical risk assessment.
 
 
-![](/assets/img/WP6Fig1.png)
+![](/assets/img/WP6Fig1_1.png)
