@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # WP3 – Food web modules: lab and field mesocosms experiments
 
 **Researchers**
