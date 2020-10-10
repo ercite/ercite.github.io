@@ -17,3 +17,13 @@ This research programme will deliver fundamental process understanding underpinn
   * How important are chemical stressors in relation to other stressors?
 
 Research will focus on addressing issues that regulators or industry are currently facing or might face in the future and concerning chemicals whose environmental impacts have yet to be explored.
+
+## Projects
+
+ERCITE is comprised of three key projects
+
+ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations
+
+Chemical Mixtures Project: Classic and temporal mixture synergisms in terrestrial ecosystems: Prevalence, mechanisms and impacts
+
+Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems 
