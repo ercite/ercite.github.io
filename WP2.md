@@ -1,9 +1,9 @@
 # WP2 – Bacterial biosensors
 
 **Researchers**
-+Prof. Thomas Bell (Work Package lead)
-+Dr Emma Ransome
-+Dr Thomas Smith
++ Prof. Thomas Bell (Work Package lead)
++ Dr Emma Ransome
++ Dr Thomas Smith
 
 Freshwater microbes are an enormously complex 'black box' that underpins freshwater food webs and key ecosystem functions and services. These communities have short generation times and are highly responsive to changes in environmental conditions, making them ideal “signallers” (bioindicators) of environmental perturbations and changes in ecosystem health. 
 We are using these complex communities as ecological canaries to understand the simultaneous impact of cocktails of many different chemical stressors.
