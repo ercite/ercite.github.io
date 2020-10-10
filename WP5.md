@@ -6,9 +6,11 @@
 + Dr Emma Cavan
 
 **Aim** 
+
 Simulate impacts of chemical stressors on freshwater ecosystems
 
 **Working plan**
+
 + The starting model will be chemical-bacteria and it will be parameterised using data collected from existing databases 
 + Data will be collected from previous experiments and used to identify the impacts our chosen chemicals have on a range of organisms
 + Apply scenarios which include climate change stressors (e.g. warming)
@@ -17,6 +19,7 @@ Simulate impacts of chemical stressors on freshwater ecosystems
 + Extend to more complex food webs
 
 **Our model**
+
 Both nutrient uptake and respiration will be explicitly parameterised as a function of individual traits of the organisms – e.g. resistant/susceptible to chemical stressors, large/small microbe, high/low metabolic temperature sensitivity. Figure XXXX is a visual representation of our model, showing how chemical compounds (e.g. pesticides) and microbial groups (bacteria and phytoplankton) interact with one another. Figure XXXX show the results of the initial chemical-bacteria model.
 
 ![](/assets/img/WP5Fig1.png)
