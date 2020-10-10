@@ -26,7 +26,7 @@ ERCITE is comprised of three key projects
 
    *UK Centre for Ecology and Hydrology (CEH); Prof. Andrew Johnson; £1.9 M*
 
-2. Chemical Mixtures Project: Classic and temporal mixture synergisms in terrestrial ecosystems: Prevalence, mechanisms and impacts
+2. [Chemical Mixtures Project: Classic and temporal mixture synergisms in terrestrial ecosystems: Prevalence, mechanisms and impacts])/ChemMix.md)
 
    *UK Centre for Ecology and Hydrology (CEH); Dr David Spurgeon; £2.4 M*
 
