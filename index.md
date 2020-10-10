@@ -3,7 +3,7 @@ title: Research
 layout: default
 ---
 
-[Emerging Risks of Chemicals in the  Environment (ERCITE)] (https://nerc.ukri.org/research/funded/programmes/chemicals/)
+# Emerging Risks of Chemicals in the  Environment (ERCITE) (https://nerc.ukri.org/research/funded/programmes/chemicals/)
 
 ![](/assets/img/UKRI_NER_Council-Logo_Horiz-RGB.png)
 
