@@ -1,5 +1,5 @@
 ---
-title: ERCITE
+title: Research
 layout: default
 ---
 
