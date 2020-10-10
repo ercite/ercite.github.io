@@ -9,11 +9,11 @@ layout: default
 
 **Project Lead:** [Dr David Spurgeon](https://www.ceh.ac.uk/staff/david-spurgeon)
 
-**Grant awarded:** £2.4m
+**Grant Awarded:** £2.4m
 
 **Background** 
 
-Current additive mixture toxicity predictions models cannot predict the chemical combinations for which synergism or antagonism occur. Regulatory reviews have, therefore, identified understanding “the causes and consequences of synergism” as a critical research need. This is certainly true for terrestrial agroecosystems, where such effects have rarely been studied, despite the fact that (under conventional management) these environments are frequently exposed to complex mixtures of agrochemicals and other pollutants. In this project, we will outline and populate a mechanistically founded predictive framework that can be used to identify synergistic mixtures and understand their causes and impacts. Our approach combines ecotoxicological studies in terrestrial species, with toxicokinetic and toxicodynamic modelling, adverse outcome pathway (AOP) assessment, dynamic energy budget theory and ecosystem level assessment to investigate mixture effects from laboratory to field. Our project is structured under 5 objective and work packages, linking across different methods, approaches and outputs (Figure X). 
+Current additive mixture toxicity predictions models cannot predict the chemical combinations for which synergism or antagonism occur. Regulatory reviews have, therefore, identified understanding “the causes and consequences of synergism” as a critical research need. This is certainly true for terrestrial agroecosystems, where such effects have rarely been studied, despite the fact that (under conventional management) these environments are frequently exposed to complex mixtures of agrochemicals and other pollutants. In this project, we will outline and populate a mechanistically founded predictive framework that can be used to identify synergistic mixtures and understand their causes and impacts. Our approach combines ecotoxicological studies in terrestrial species, with toxicokinetic and toxicodynamic modelling, adverse outcome pathway (AOP) assessment, dynamic energy budget theory and ecosystem level assessment to investigate mixture effects from laboratory to field. Our project is structured under 5 objective and work packages, linking across different methods, approaches and outputs (Figure 3). 
 
 **Objectives**
 
@@ -25,7 +25,7 @@ Current additive mixture toxicity predictions models cannot predict the chemical
 
 ![](/assets/img/ChemMixFig1.png)
 
-*The rationale, objectives and outputs of each work package. Arrows indicate how the next work package builds upon the prior*
+*Fig.3 The rationale, objectives and outputs of each work package. Arrows indicate how the next work package builds upon the prior*
 
 **Research Team**
 
