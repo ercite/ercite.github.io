@@ -2,12 +2,12 @@
 
 **Researchers**
 
-+ Prof. Guy Woodward (ICL) (WP lead)
-+ Prof. Thomas Bell (ICL)
-+ Dr Emma Ransome (ICL)
-+ Dr Michelle Jackson (Ox) 
-+ Dr Danielle Harris (ICL) 
-+ Dr Thomas Smith (ICL)
++ Prof. Guy Woodward (Work Package lead)
++ Prof. Thomas Bell
++ Dr Emma Ransome
++ Dr Michelle Jackson 
++ Dr Danielle Harris 
++ Dr Thomas Smith
 
 
 **Aim** Measure the effects of chemical stressors and warming on a wide suite of ecosystem responses, driven by both microbial and macrobiotic consumers.
