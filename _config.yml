@@ -5,7 +5,7 @@ show_excerpts: true
 future: true
 header_pages:
   - index.md
-  - Chempop.md
+  - ChemPop.md
   - ChemMix.md
   - EcosystemProject.md
   - about.html
