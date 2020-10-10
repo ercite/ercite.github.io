@@ -10,6 +10,7 @@ We are using these complex communities as ecological canaries to understand the 
 In field trials, only a limited number of chemicals can be tested because experiments are expensive and labour intensive. However, well-replicated experiments involving mixtures of many types of chemicals are feasible in the lab. We are using robotic automation to assay the impact of hundreds of chemical mixtures on microbial communities and ecosystem functions, which will answer fundamental questions about interactions among chemical stressors and provide guidance for field trials.
 
 ![](/assets/img/WP2Fig1.png)
+
 *Robotic automation of chemical mixture experiments. A liquid handling-robot can create hundreds of mixtures of chemicals and test their impact on microbes isolated from environmental samples.*
 
 
@@ -17,6 +18,7 @@ Our pilot experiments have created defined mixtures of chemicals that align with
 
 
 ![](/assets/img/WP2Fig2.png)
+
 *The impact of mixtures of chemicals on a microbial communities becomes more unpredictable with increasing complexity of the chemical cocktail. Note these are preliminary data*
 
 One result from these preliminary data is that our predictions get worse (further from the 1:1 line) as the chemical cocktails get more complex. This implies that piecemeal investigations of chemicals one-by-one may not adequately predict their impacts in natural environments, where interactions among chemical stressors could play a prominent role.
