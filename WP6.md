@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # WP6 – Policy framing and relevance
 
 **Researchers**
