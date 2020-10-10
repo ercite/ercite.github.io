@@ -20,7 +20,7 @@ Research will focus on addressing issues that regulators or industry are current
 
 ## Projects
 
-ERCITE is comprised of three key projects
+ERCITE is comprised of three projects:
 
 1. [ChemPop Project: Does the discharge of chemicals to the environment harm wildlife populations](/ChemPop.md)
 
