@@ -34,7 +34,7 @@ We will construct “food web modules” of key resources at the base of freshwa
 *Fig. 2 Imperial’s Silwood Park controlled environment rooms. Controlled experiments can be run in the controlled environment rooms where temperature, humidity and light can be carefully controlled and monitored*
 
 
-**Silwood Park Mesocosms:** We will scale up our laboratory experiments through the use of Imperial’s Silwood Park Mesocosm Facility (Figure 3). These mesocosms form part of a long-term warming experiment funded by a NERC Large Grant (Gene-to-ecosystem impacts of global warming led by Prof. Guy Woodward), which has been used as a springboard for understanding the combined effects of chemicals and warming in the new ERCITE grant. In this experiment we aim to capture the contrast between (1) ambient controls, (2) warming alone (3) combined pharmaceuticals and pesticides (i.e. urban and rural, as reflecting lowland catchment land uses) mixture (refined in [WP1](/WP1)), and (4) warming and the chemical mixture.
+**Silwood Park Mesocosms:** We will scale up our laboratory experiments through the use of Imperial’s Silwood Park Mesocosm Facility (Figure 3). These mesocosms form part of a long-term warming experiment funded by a NERC Large Grant (Gene-to-ecosystem impacts of global warming led by Prof. Guy Woodward), which has been used as a springboard for understanding the combined effects of chemicals and warming in the new ERCITE grant. In this experiment we aim to capture the contrast between (1) ambient controls, (2) warming alone (3) combined pharmaceuticals and pesticides (i.e. urban and rural, as reflecting lowland catchment land uses) mixture (refined in [WP1](/WP1.md)), and (4) warming and the chemical mixture.
 
 
 ![](/assets/img/WP3Fig3.png)
