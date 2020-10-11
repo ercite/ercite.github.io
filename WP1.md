@@ -4,7 +4,7 @@ layout: default
 
 # WP1 – Ecoinformatics 
 
-**Researchers**
+**Research Team**
 + [Prof. Alex J Dumbrell](https://www.essex.ac.uk/people/dumbr85003/alex-dumbrell) (Work Package Lead) - University of Essex
 + [Dr Boyd McKew](https://www.essex.ac.uk/people/mckew22805/boyd-mckew) - University of Essex
 + [Dr Robert Ferguson](https://www.essex.ac.uk/people/fergu10501/robert-ferguson) - University of Essex
