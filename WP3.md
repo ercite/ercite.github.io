@@ -4,7 +4,7 @@ layout: default
 
 # WP3 – Food web modules: lab and field mesocosms experiments
 
-**Researchers**
+**Research Team**
 
 + [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) (Work Package Lead)
 + [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell)
