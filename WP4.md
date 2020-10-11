@@ -11,9 +11,11 @@ layout: default
 + Dr Danielle Harris - Imperial College London
 
 **Aim** 
+
 Extend our lab and mesocosm experiments ([WP3](WP3.md) into natural settings to test for consistency of responses
 
 **Method** 
+
 We cannot dose natural systems with chemicals so we will collect samples from rivers across the UK (Figure 1), spanning a gradient of urban-pastoral-arable pollution. We will focus on sites where there is strong evidence of biocide effects beyond those associated with organic pollution (e.g. from wastewater). At our field sites, we will measure:
 + Ecosystem processes (e.g. biomass production and decomposition rates) by deploying the same bioassays as in WP3 (cellulose and leaf litter degradation, algal tile colonisation) 
 + Abundance and biomass per unit area of all levels of the food web, from microbes to fishes
