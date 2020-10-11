@@ -4,7 +4,7 @@ layout: default
 
 # WP6 – Policy framing and relevance
 
-**Researchers**
+**Research Team**
 
 + [Prof. Nick Voulvoulis](https://www.imperial.ac.uk/people/n.voulvoulis) (Work Package Lead)
 + [Dr Theodoros Giakoumis](https://www.imperial.ac.uk/people/theodoros.giakoumis13)
