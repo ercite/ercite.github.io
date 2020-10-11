@@ -26,9 +26,9 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 
 
 
+
 ![](/assets/img/ChemPopFig1.png)
 *Fig.1 Introduction to the ChemPop vision*
-
 
 
 ![](/assets/img/ChemPopFig2.png)
