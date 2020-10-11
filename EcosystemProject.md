@@ -20,7 +20,7 @@ Freshwater ecosystems provide critical ecosystem services that underpin human so
 
 We aim to unearth the general rules by which emerging chemicals function and alter freshwater food webs – from microbes at the base, through to apex predators in the fish community at the top. As such, this project will generate a new framework for predicting the ecological impacts of emerging chemical stressors and their interactions with climate change. This will include toolkits to identify early warning signals that new chemicals have entered the food web, as well as mathematical models for predicting indirect consequences. The models we generate will be generalised so they can be adapted to suit a variety of systems.  
 
-**Specific workplans** – (see the [ChemPop (CEH)](/ChemPop.md) and [Chemical Mixture Project (CEH)](/ChemMix) page for project details)
+**Specific workplans** – (see the [ChemPop (CEH)](/ChemPop.md) and [Chemical Mixture Project (CEH)](/ChemMix.md) page for project details)
 To achieve the project’s objectives, it is structured in six interlinked work packages (WP)
 
 [**WP1**](/WP1.md) – Ecoinformatics
