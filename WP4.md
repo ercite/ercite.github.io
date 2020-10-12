@@ -7,7 +7,7 @@ layout: default
 **Research Team**
 + [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) (Work Package Lead) - Imperial College London
 + [Dr Eoin O’Gorman](https://www.essex.ac.uk/people/ogorm99208/eoin-o-gorman) - University of Essex
-+ [Dr Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) - Oxford University 
++ [Dr Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) - University Oxford
 + Dr Danielle Harris - Imperial College London
 
 **Aim** 
