@@ -32,4 +32,4 @@ ERCITE is comprised of three projects:
 
 3. [Ecosystems Project: A novel framework for predicting emerging chemical stressor impacts in complex ecosystems](/EcosystemProject.md)
 
-   *Imperial College London; Project Lead: Prof. Guy Woodward; £2.5 M*
+   *Imperial College London and University of Essex; Project Lead: Prof. Guy Woodward; £2.5 M*
