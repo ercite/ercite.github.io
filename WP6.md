@@ -6,8 +6,8 @@ layout: default
 
 **Research Team**
 
-+ [Prof. Nick Voulvoulis](https://www.imperial.ac.uk/people/n.voulvoulis) (Work Package Lead)
-+ [Dr Theodoros Giakoumis](https://www.imperial.ac.uk/people/theodoros.giakoumis13)
++ [Prof. Nick Voulvoulis](https://www.imperial.ac.uk/people/n.voulvoulis) (Work Package Lead) - Imperial College London
++ [Dr Theodoros Giakoumis](https://www.imperial.ac.uk/people/theodoros.giakoumis13) - Imperial College London
 
 **Background** 
 
