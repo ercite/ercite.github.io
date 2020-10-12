@@ -6,12 +6,12 @@ layout: default
 
 **Research Team**
 
-+ [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) (Work Package Lead)
-+ [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell)
-+ Dr Emma Ransome
++ [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) (Work Package Lead) - Imperial College London
++ [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell) - Imperial College London
++ Dr Emma Ransome - Imperial College London
 + [Dr Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) - University of Oxford
-+ Dr Danielle Harris 
-+ [Dr Thomas Smith](https://www.imperial.ac.uk/people/thomas.smith1) 
++ Dr Danielle Harris - Imperial College London
++ [Dr Thomas Smith](https://www.imperial.ac.uk/people/thomas.smith1) - Imperial College London
 
 
 **Aim** Measure the effects of chemical stressors and warming on a wide suite of ecosystem responses, driven by both microbial and macrobiotic consumers.
