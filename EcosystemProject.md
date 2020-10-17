@@ -35,6 +35,7 @@ To achieve the project’s objectives, it is structured in six interlinked work 
 
 [**WP6**](/WP6.md) – Policy, management and implementation
 
+
 **Research Team**
 
 [Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell) - Imperial College London (Lead WP 2)
