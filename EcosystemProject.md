@@ -1,5 +1,5 @@
 ---
-title: Ecosystems Project
+title: Ecosystems (Imperial)
 layout: default
 ---
 
@@ -34,3 +34,39 @@ To achieve the project’s objectives, it is structured in six interlinked work 
 [**WP5**](/WP5.md) – Modelling
 
 [**WP6**](/WP6.md) – Policy, management and implementation
+
+
+**Research Team**
+
+[Prof. Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell) - Imperial College London (Lead WP 2)
+
+[Dr Emma Cavan](https://www.imperial.ac.uk/people/e.cavan) - Imperial College London
+
+[Prof. Alex J Dumbrell](https://www.essex.ac.uk/people/dumbr85003/alex-dumbrell) - University of Essex (Lead WP 1)
+
+[Dr Robert Ferguson](https://www.essex.ac.uk/people/fergu10501/robert-ferguson) - University of Essex
+
+[Dr Theodoros Giakoumis](https://www.imperial.ac.uk/people/theodoros.giakoumis13) - Imperial College London
+
+Dr Danielle Harris - Imperial College London
+
+[Dr Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) – University Oxford
+
+[Dr Eoin O’Gorman]("https://www.essex.ac.uk/people/ogorm99208/eoin-o-gorman) - University of Essex
+
+[Dr Samraat Pawar](https://www.imperial.ac.uk/people/s.pawar) - Imperial College London (Lead WP 5)
+
+[Dr Kate Randall](https://www.essex.ac.uk/people/randa81609/kate-randall) - University of Essex
+
+Dr Emma Ransome - Imperial College London
+
+[Dr James Rosindell](https://www.imperial.ac.uk/people/j.rosindell)- Imperial College London
+
+[Dr Thomas Smith](https://www.imperial.ac.uk/people/thomas.smith1) - Imperial College London
+
+[Prof. Nick Voulvoulis](https://www.imperial.ac.uk/people/n.voulvoulis) - Imperial College London (Lead WP6)
+
+[Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) - Imperial College London (Lead WP3 & 4, Project Lead)
+
+
+

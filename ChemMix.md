@@ -1,5 +1,5 @@
 ---
-title: Chemical Mixtures Project
+title: Chemical Mixtures (CEH)
 layout: default
 ---
 
