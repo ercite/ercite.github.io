@@ -1,5 +1,5 @@
 ---
-title: ChemPop Project
+title: ChemPop (CEH)
 layout: default
 ---
 
