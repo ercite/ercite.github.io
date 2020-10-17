@@ -4,10 +4,10 @@ title: ERCITE
 show_excerpts: true
 future: true
 header_pages:
-  -ChemPop.md
-  -ChemMix.md
-  -EcosystemProject.md
-  -Events.md
-  -Publications.md
-  -ProjectPartners.md
+  - ChemPop.md
+  - ChemMix.md
+  - EcosystemProject.md
+  - Events.md
+  - Publications.md
+  - ProjectPartners.md
 repository: ercite/ercite.github.io
