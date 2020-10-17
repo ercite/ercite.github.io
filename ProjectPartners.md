@@ -1,5 +1,5 @@
 ---
-title: Project Partners
+title: Partners
 layout: default
 ---
 
