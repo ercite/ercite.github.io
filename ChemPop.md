@@ -1,5 +1,5 @@
 ---
-title: ChemPop |
+title: ChemPop
 layout: default
 ---
 
