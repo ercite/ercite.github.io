@@ -1,5 +1,5 @@
 ---
-title: Chemical Mixtures (CEH)
+title: Chemical Mixtures
 layout: default
 ---
 
