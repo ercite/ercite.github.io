@@ -1,5 +1,5 @@
 ---
-title: Ecosystems |
+title: Ecosystems
 layout: default
 ---
 
