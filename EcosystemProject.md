@@ -1,5 +1,5 @@
 ---
-title: Ecosystems (Imperial)
+title: Ecosystems
 layout: default
 ---
 
