@@ -1,5 +1,5 @@
 ---
-title: | Chemical Mixtures |
+title: Chemical Mixtures
 layout: default
 ---
 
