@@ -29,7 +29,7 @@ Danielle Harris - Imperial College London (Ecosystems Project)
 
 [Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) - University Oxford (Ecosystems Project)
 
-[Andrew Johnson](https://www.ceh.ac.uk/staff/andrew-johnson) - CEH
+[Andrew Johnson](https://www.ceh.ac.uk/staff/andrew-johnson) - CEH (ChemPop Project)
 
 [Peter Kille](https://sites.cardiff.ac.uk/kille-morgan/the-team/profpkille/) - Cardiff University (Chemical Mixture Project)
 
