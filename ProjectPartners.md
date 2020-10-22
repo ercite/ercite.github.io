@@ -25,7 +25,7 @@ layout: default
 
 [Theodoros Giakoumis](https://www.imperial.ac.uk/people/theodoros.giakoumis13) - Imperial College London
 
-[Danielle Harris] - Imperial College London
+Danielle Harris - Imperial College London
 
 [Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) - University Oxford
 
@@ -43,7 +43,7 @@ layout: default
 
 [Kate Randall](https://www.essex.ac.uk/people/randa81609/kate-randall) - University of Essex
 
-[Emma Ransome] - Imperial College London
+Emma Ransome - Imperial College London
 
 [James Rosindell](https://www.imperial.ac.uk/people/j.rosindell) - Imperial College London
 
