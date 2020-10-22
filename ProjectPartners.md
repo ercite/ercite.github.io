@@ -5,9 +5,9 @@ layout: default
 
 # ERCITE Investigators and Researchers 
 
-[Roman Ashauer](https://pure.york.ac.uk/portal/en/researchers/roman-ashauer(35483266-89d9-48bd-88ff-30c1d8b933ed).html) - University of York
+[Roman Ashauer](https://pure.york.ac.uk/portal/en/researchers/roman-ashauer(35483266-89d9-48bd-88ff-30c1d8b933ed).html) - University of York (Chemical Mixture Project)
 
-[Sylvain Bart](https://pure.york.ac.uk/portal/en/researchers/sylvain-marcel-bart(30eb8cea-53ed-4276-8fc9-965ae313c0b1).html) - University of York
+[Sylvain Bart](https://pure.york.ac.uk/portal/en/researchers/sylvain-marcel-bart(30eb8cea-53ed-4276-8fc9-965ae313c0b1).html) - University of York (Chemical Mixture Project)
 
 [Thomas Bell](https://www.imperial.ac.uk/people/thomas.bell) - Imperial College London
 
