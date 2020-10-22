@@ -3,7 +3,7 @@ title: Partners
 layout: default
 ---
 
-# Investigators and Visiting Researchers across the ERCITE Programme
+# ERCITE Investigators and Researchers 
 
 [Roman Ashauer](https://pure.york.ac.uk/portal/en/researchers/roman-ashauer(35483266-89d9-48bd-88ff-30c1d8b933ed).html) - University of York
 
