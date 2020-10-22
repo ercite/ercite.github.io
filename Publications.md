@@ -3,7 +3,7 @@ title: Publications
 layout: default
 ---
 
-Publications
+**Publications**
 
 [Johnson, A.C. (2019) Is freshwater macroinvertebrate biodiversity being harmed by synthetic chemicals in municipal wastewater?  Current Opinion in Environmental Science & Health, 11, 8-12.](https://doi.org/10.1016/j.coesh.2019.05.005)
 
