@@ -63,6 +63,6 @@ layout: default
 
 [Andy Weightman](https://www.cardiff.ac.uk/people/view/81310-weightman-andy) - Cardiff University
 
-[Ben Woodcock]((https://www.ceh.ac.uk/staff/ben-woodcock) – CEH
+[Ben Woodcock](https://www.ceh.ac.uk/staff/ben-woodcock) – CEH
 
 [Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) - Imperial College London
