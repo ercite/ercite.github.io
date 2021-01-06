@@ -52,13 +52,13 @@ Dr Danielle Harris - Imperial College London
 
 [Dr Michelle Jackson](https://www.zoo.ox.ac.uk/people/dr-michelle-jackson) – University Oxford
 
-[Dr Eoin O’Gorman]("https://www.essex.ac.uk/people/ogorm99208/eoin-o-gorman) - University of Essex
+[Dr Eoin O’Gorman](https://www.essex.ac.uk/people/ogorm99208/eoin-o-gorman) - University of Essex
 
 [Dr Samraat Pawar](https://www.imperial.ac.uk/people/s.pawar) - Imperial College London (Lead WP 5)
 
 [Dr Kate Randall](https://www.essex.ac.uk/people/randa81609/kate-randall) - University of Essex
 
-Dr Emma Ransome - Imperial College London
+[Dr Emma Ransome](https://www.imperial.ac.uk/people/e.ransome) - Imperial College London
 
 [Dr James Rosindell](https://www.imperial.ac.uk/people/j.rosindell)- Imperial College London
 
