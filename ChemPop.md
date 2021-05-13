@@ -35,6 +35,7 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 *Fig.2 Introduction to the ChemPop work packages*
 
 
+
 **Videos linked to this project**
 
 {% include youtubePlayer.html id="wqsCUlbqsxA" %}
@@ -49,10 +50,13 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 *Rosie Williams (ZLS) ChemPop Marine focused project update (April 2021)*
 
 
+
 **Stakeholder Meeting Updates**
 
 <embed src="https://ercite.github.io/assets/img/Stakeholder meeting May 2021.pdf" type="application/pdf" width="750px" height="375px" />
 *May 2021*
+
+
 
 
 **Papers linked to the project which have been published so far**
