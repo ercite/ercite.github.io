@@ -52,18 +52,6 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 
 
 
-
-
-**Stakeholder Meeting Updates**
-
-<embed src="https://ercite.github.io/assets/img/Stakeholder meeting May 2021.pdf" type="application/pdf" width="725px" height="360px" />
-*May 2021*
-
-
-
-
-
-
 **Papers linked to the project which have been published so far**
 
 [Johnson, A.C. (2019) Is freshwater macroinvertebrate biodiversity being harmed by synthetic chemicals in municipal wastewater?  Current Opinion in Environmental Science & Health, 11, 8-12.](https://doi.org/10.1016/j.coesh.2019.05.005)
