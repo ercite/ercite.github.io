@@ -35,6 +35,9 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 *Fig.2 Introduction to the ChemPop work packages*
 
 
+**Videos linked to this project**
+Professor Andrew Johnson (UKCEH) ChemPop Project update focusing on work to date on terrestrial invertebrates (April 2021)
+
 
 **Papers linked to the project which have been published so far**
 
