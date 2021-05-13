@@ -36,9 +36,18 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 
 
 **Videos linked to this project**
+
 Professor Andrew Johnson (UKCEH) ChemPop Project update focusing on work to date on terrestrial invertebrates (April 2021)
 
 {% include youtubePlayer.html id="wqsCUlbqsxA" %}
+
+Professor Andrew Johnson (UKCEH) ChemPop Freshwater environment progress report (April 2021)
+
+{% include youtubePlayer.html id="zItq7EZaagU" %}
+
+Rosie Williams (ZLS) ChemPop Marine focused project update (April 2021) 
+
+{% include youtubePlayer.html id="6KeqtMISHuk" %}
 
 **Papers linked to the project which have been published so far**
 
