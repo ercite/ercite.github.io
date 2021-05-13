@@ -48,7 +48,9 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 {% include youtubePlayer.html id="6KeqtMISHuk" %}
 *Rosie Williams (ZLS) ChemPop Marine focused project update (April 2021)*
 
+**Stakeholder Meeting Updates**
 
+<embed src="![](/assets/img/Stakeholder meeting May 2021.pdf" type="application/pdf" />
 
 **Papers linked to the project which have been published so far**
 
