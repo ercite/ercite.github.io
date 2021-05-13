@@ -53,7 +53,7 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 
 **Stakeholder Meeting Updates**
 
-<embed src="https://ercite.github.io/assets/img/Stakeholder meeting May 2021.pdf" type="application/pdf" width="750px" height="375px" />
+<embed src="https://ercite.github.io/assets/img/Stakeholder meeting May 2021.pdf" type="application/pdf" width="725px" height="360px" />
 *May 2021*
 
 
