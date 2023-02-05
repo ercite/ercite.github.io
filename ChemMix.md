@@ -45,7 +45,7 @@ Current additive mixture toxicity predictions models cannot predict the chemical
 + [Virag Sagi-Kiss](https://www.researchgate.net/profile/Virag_Sagi-Kiss) - Imperial College London
 
 
-**Publications linked to teh project so far**
+**Publications linked to the project so far**
 
 [Spurgeon D, Wilkinson H, Civil W, Hutt L, Armenise E, Kieboom N, Sims K... Besien T. (2022). Proportional contributions to organic chemical mixture effects in groundwater and surface water.. Water research, pp. 118641](https://www.sciencedirect.com/science/article/pii/S0043135422005942?via%3Dihub)
 
