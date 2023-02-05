@@ -45,4 +45,4 @@ Current additive mixture toxicity predictions models cannot predict the chemical
 + [Virag Sagi-Kiss](https://www.researchgate.net/profile/Virag_Sagi-Kiss) - Imperial College London
 
 
-[**Go to Publications linked to the project so far**](https://ercite.github.io/Publications.html)
+[**Go to Publications linked to the project so far**](https://github.com/ercite/ercite.github.io/blob/ebc34bc4057a637b05b61100585e66981b801c90/Publications.md?plain=1#L48)
