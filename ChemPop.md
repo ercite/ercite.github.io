@@ -54,23 +54,21 @@ We will deliver the most comprehensive assessment yet attempted, across UK fresh
 
 **Papers linked to the project which have been published so far**
 
-[Johnson, A.C. (2019) Is freshwater macroinvertebrate biodiversity being harmed by synthetic chemicals in municipal wastewater?  Current Opinion in Environmental Science & Health, 11, 8-12.](https://doi.org/10.1016/j.coesh.2019.05.005)
+[Johnson, A.C. (2019). Is freshwater macroinvertebrate biodiversity being harmed by synthetic chemicals in municipal wastewater?  Current Opinion in Environmental Science & Health, 11, 8-12.](https://doi.org/10.1016/j.coesh.2019.05.005)
 
 [Johnson, A.C. (2019) The necessity for wildlife population studies to assess real chemical impacts. Current Opinion in Environmental Science & Health, 11, A1_A3.](https://doi.org/10.1016/j.coesh.2019.10.005)
 
-[Shore, R.F., Taggart, M.A. 2019. Population level impacts of chemical contaminants on apex avian species. Current Opinion in Environmental Science & Health 11 65–70.](https://doi.org/10.1016/j.coesh.2019.06.007)
+[Shore, R.F., Taggart, M.A. (2019). Population level impacts of chemical contaminants on apex avian species. Current Opinion in Environmental Science & Health 11 65–70.](https://doi.org/10.1016/j.coesh.2019.06.007)
 
-[Mancini, F., Woodcock, B.A., Isaac, N.J.B. (2019).  Agrochemicals in the wild: Identifying links between pesticide use and declines of nontarget organisms. Current Opinion in Environmental Science & Health 11. 53-58](https://doi.org/10.1016/j.coesh.2019.07.003)
+[Mancini, F., Woodcock, B.A., Isaac, N.J.B. (2019).  Agrochemicals in the wild: Identifying links between pesticide use and declines of nontarget organisms. Current Opinion in Environmental Science & Health 11. 53-58.](https://doi.org/10.1016/j.coesh.2019.07.003)
 
-[Johnson, A.C., Jin, X., Nakada, N. Sumpter, J.P. (2020).  Learning from the past and considering the future of chemicals in the environment.  Science, 367, 384-387](https://doi.org/10.1126/science.aay6637)
+[Johnson, A.C., Jin, X., Nakada, N. Sumpter, J.P. (2020).  Learning from the past and considering the future of chemicals in the environment.  Science, 367, 384-387.](https://doi.org/10.1126/science.aay6637)
 
 Johnson, A.C., Jurgens, M.D., Edwards, F.K., Scarlett, P.M., Vincent, H.M., von der Ohe, P. (2019).  What works? The influence of changing wastewater treatment type, including tertiary granular activated charcoal, on downstream macroinvertebrate biodiversity over time.  Environmental Toxicology and Chemistry, 38, 1820-1832.
 
-Greenop, A., Cook, S.M., Wilby, A., Pywell, R.F., Woodcock, B.A., (2020). Arthropod community structure predicts natural pest control resilience to insecticide exposure. Journal of Applied Ecology, 57, 2441-2453.
+[Greenop, A., Cook, S.M., Wilby, A., Pywell, R.F., Woodcock, B.A., (2020). Arthropod community structure predicts natural pest control resilience to insecticide exposure. Journal of Applied Ecology, 57, 2441-2453.Invertebrate community structure predicts natural pest control resilience to insecticide exposure (wiley.com)](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13752)
 
-[Invertebrate community structure predicts natural pest control resilience to insecticide exposure (wiley.com)](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2664.13752)
-
-Greenop, A., Mica-Hawkyard, N., Walkington, S., Wilby, A., Cook, S.M., Pywell, R.F., Woodcock, B.A., 2020. Equivocal evidence for colony level stress effects on Bumble Bee pollination services. Insects 11, 119.
+[Greenop, A., Mica-Hawkyard, N., Walkington, S., Wilby, A., Cook, S.M., Pywell, R.F., Woodcock, B.A., 2020. Equivocal evidence for colony level stress effects on Bumble Bee pollination services. Insects 11, 119.](https://www.mdpi.com/2075-4450/11/3/191)
 
 [Mancini, F., Woodcock, B.A., Redhead, J., Spurgeon, D.J., Jarvis, S.G., Pywell, R.F., Shore, R.F., Johnson, A.C., Isaac, N.J.B. (2020). Detecting landscape scale consequences of insecticide use on invertebrate communities. Advances in Ecological Research, 63, 93-126.](https://doi.org/10.1016/bs.aecr.2020.07.001)
 
