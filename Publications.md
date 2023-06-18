@@ -90,3 +90,11 @@ Sumpter, J.P., Runnalls, T.J.  Johnson, A.C., Barcelo, D. (2022).  A ‘limitati
 [Petersen EJ, Mortimer M, Burgess RM, Handy R, Hanna S, Ho KT, Johnson M... Holden P. (2019). Strategies for robust and accurate experimental approaches to quantify nanomaterial bioaccumulation across a broad range of organisms.. Environmental science. Nano](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC6774209&blobtype=pdf)
 
 [Van den Brink P, Boxall A, Maltby L, Brooks B, Rudd M, Backhaus T..... van Wensem J, (2018). Toward sustainable environmental quality: Priority research questions for Europe.. Environmental toxicology and chemistry, 37 (9), pp. 2281-2295](https://setac.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/etc.4205)
+
+***Ecosystems***
+
+[Systems thinking for the transition to zero pollution. Imperial College London; Liam Kirkpatrick, Professor Claire S. Adjiman, Professor Helen Apsimon, Dr Alex Berry, Dr Audrey De Nazelle, Dr Ana Mijic, Dr Rupert J. Myers, Professor Guy Woodward, Dr Mark Workman (2023) PDF](https://spiral.imperial.ac.uk/bitstream/10044/1/104217/15/40125%20Transition%20to%20Zero%20Briefing%20paper%2040_final.pdf?_gl=1*w736ss*_ga*NTE4MDUzNzU5LjE2ODcwODE1NTk.*_ga_LME5ZDDFS0*MTY4NzA4NTIwNC4yLjEuMTY4NzA4NTI3NS42MC4wLjA)
+
+[Are urban areas hotspots for pollution from pet parasiticides? Imperial College London; Rhys G. G. Preston-Allen, Dr Dania Albini, Dr Leon Barron, Dr Tilly Collins, Professor Alex Dumbrell, Hamish Duncalf-Youngson, Dr Michelle Jackson, Professor Andrew Johnson, Dr Rosemary Perkins, Dr Andrew Prentis, Dr David Spurgeon, Nicole Stasik, Clodagh Wells, Professor Guy Woodward (2023) PDF](https://spiral.imperial.ac.uk/bitstream/10044/1/102699/6/Are%20urban%20areas%20hotspots%20for%20pollution%20from%20pet%20parasiticides.pdf?_gl=1*pfk7vj*_ga*NTE4MDUzNzU5LjE2ODcwODE1NTk.*_ga_LME5ZDDFS0*MTY4NzA4NTIwNC4yLjEuMTY4NzA4NTI3NS42MC4wLjA.)
+
+[Multiple stressors in freshwater ecosystems: biocides and climate change. Imperial College London; Dr Michelle Jackson, Professor Nick Voulvoulis, Professor Guy Woodward (2018) PDF](https://www.imperial.ac.uk/media/imperial-college/grantham-institute/public/publications/briefing-papers/BP27-Multiple-stressors-in-freshwater-ecosystems---biocides-and-climate-change.pdf)
