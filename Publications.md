@@ -90,3 +90,8 @@ Sumpter, J.P., Runnalls, T.J.  Johnson, A.C., Barcelo, D. (2022).  A ‘limitati
 [Petersen EJ, Mortimer M, Burgess RM, Handy R, Hanna S, Ho KT, Johnson M... Holden P. (2019). Strategies for robust and accurate experimental approaches to quantify nanomaterial bioaccumulation across a broad range of organisms.. Environmental science. Nano](https://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC6774209&blobtype=pdf)
 
 [Van den Brink P, Boxall A, Maltby L, Brooks B, Rudd M, Backhaus T..... van Wensem J, (2018). Toward sustainable environmental quality: Priority research questions for Europe.. Environmental toxicology and chemistry, 37 (9), pp. 2281-2295](https://setac.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/etc.4205)
+
+***Ecosystems***
+
+<a href="assets/img/40125 Transition to Zero Briefing paper 40_FINAL.pdf"> Systems thinking for the transition to zero pollution. Imperial College London Liam Kirkpatrick, Professor Claire S. Adjiman, Professor Helen Apsimon, Dr Alex Berry, Dr Audrey De Nazelle, Dr Ana Mijic, Dr Rupert J. Myers, Professor Guy Woodward, Dr Mark Workman (2023)</a>
+
