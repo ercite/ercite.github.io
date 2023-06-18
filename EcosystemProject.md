@@ -68,5 +68,7 @@ Dr Danielle Harris - Imperial College London
 
 [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward) - Imperial College London (Lead WP3 & 4, Project Lead)
 
+[**Go to Publications linked to the project so far**](https://ercite.github.io/Publications.html)
+
 
 
