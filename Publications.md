@@ -93,5 +93,5 @@ Sumpter, J.P., Runnalls, T.J.  Johnson, A.C., Barcelo, D. (2022).  A ‘limitati
 
 ***Ecosystems***
 
-<a href="assets/img/40125 Transition to Zero Briefing paper 40_FINAL.pdf"> Systems thinking for the transition to zero pollution. Imperial College London Liam Kirkpatrick, Professor Claire S. Adjiman, Professor Helen Apsimon, Dr Alex Berry, Dr Audrey De Nazelle, Dr Ana Mijic, Dr Rupert J. Myers, Professor Guy Woodward, Dr Mark Workman (2023)</a>
+[Systems thinking for the transition to zero pollution. Imperial College London Liam Kirkpatrick, Professor Claire S. Adjiman, Professor Helen Apsimon, Dr Alex Berry, Dr Audrey De Nazelle, Dr Ana Mijic, Dr Rupert J. Myers, Professor Guy Woodward, Dr Mark Workman (2023)](https://spiral.imperial.ac.uk/bitstream/10044/1/104217/15/40125%20Transition%20to%20Zero%20Briefing%20paper%2040_final.pdf?_gl=1*w736ss*_ga*NTE4MDUzNzU5LjE2ODcwODE1NTk.*_ga_LME5ZDDFS0*MTY4NzA4NTIwNC4yLjEuMTY4NzA4NTI3NS42MC4wLjA)
 
